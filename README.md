@@ -1,3 +1,11 @@
+# Certifications..!
+
+![Certification Image](https://github.com/bharath-manjunath/React_Calculator_Application_Meta/blob/main/public/React%20Certificate.png)
+)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
